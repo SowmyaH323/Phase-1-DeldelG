@@ -1,7 +1,7 @@
-streamlit>=1.35
-numpy>=1.24,<2.0
-pandas>=2.0
-xgboost>=2.0
-biopython>=1.83
-tensorflow-cpu>=2.15,<2.18
-torch>=2.1
+streamlit
+numpy
+pandas
+xgboost
+tensorflow-cpu
+torch
+biopython
